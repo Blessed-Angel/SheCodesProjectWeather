@@ -6,10 +6,6 @@
   "scripts": {
     "start": "parcel index.html --open",
     "build": "parcel build index.html"
-  }{
-    "scripts": {
-      "build": "[my-framework] build --output public"
-    }
   },
   "dependencies": {},
   "devDependencies": {
